@@ -41,4 +41,4 @@ So far, I have observed that:
 3. Big-Bang Theory has been one of the most watched TV-shows till now followed by Friends and Naruto.
 4. In case of movies, we have watched comedy genre movies a lot followed by action movies.
 
-I will be trying to do some more analysis based on other features like duration of movie, country of making etc.
+I will be trying to do some more analysis based on other features like duration of movie, country where movie was shot etc.
