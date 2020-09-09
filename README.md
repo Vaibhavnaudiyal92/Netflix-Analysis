@@ -27,7 +27,7 @@ Performed some analysis to better undertsand the data.
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/master/download%20(1).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/download%20(1).png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />   
 <img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/download%20(2).png?raw=true"
