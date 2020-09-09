@@ -36,7 +36,7 @@ Performed some analysis to better undertsand the data.
 
 # Conclusion
 So far, I have observed that:
-1. we have watched a lot of TV-shows/movies during 2020. The reason is obvious, due to lockdown and covid-19 situation. 
+1. We have watched a lot of TV-shows/movies during 2020. The reason is obvious, due to lockdown and covid-19 situation. 
 2. We used a lot of netflix during the month of July and August. 
 3. Big-Bang Theory has been one of the most watched TV-shows till now followed by Friends and Naruto.
 4. In case of movies, we have watched comedy genre movies a lot followed by action movies.
