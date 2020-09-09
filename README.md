@@ -1,4 +1,7 @@
 # Netflix-Analysis
+<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/Netflix_logo_red.png?raw=true?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 # Introduction
 
 Online movies/TV-Shows streaming platforms have become common nowadays. Companies like Netflix, Amazon, Hotstar etc have provided their own platforms for streaming movies. They use state-of-the-art technologies and algorithms to recommend us movies according to our taste and viewing history. In this project, I have tried to analyse my own netflix account's data to understand how insights can be drawn from mere viewing history. 
