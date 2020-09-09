@@ -16,18 +16,18 @@ Performed some analysis to better undertsand the data.
 <img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/total%20views.png?raw=true?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/total%20views%20season.png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/total%20views%20season.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download.png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/download.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(1).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/master/download%20(1).png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />   
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(2).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/Netflix-Analysis/blob/master/download%20(2).png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
